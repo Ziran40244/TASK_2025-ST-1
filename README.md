@@ -24,3 +24,7 @@
 **额外条件：除`stdio.h`外，不允许引用其他头文件、不允许新建自定义函数、程序总长度不允许超过25行（1个分号算作1行）。**
 
 （挑战任务仅作为提高练习，选做。）
+
+## 📦运行示例
+<img width="1048" height="679" alt="image" src="https://github.com/user-attachments/assets/c34fe6e0-f010-485e-b339-f275e9420dd7" />
+
