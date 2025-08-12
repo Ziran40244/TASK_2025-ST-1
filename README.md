@@ -2,6 +2,8 @@
 
 来练习一下PR的操作吧！
 
+如果不知道如何使用Pull Request功能，可参考：[此文章](https://maa.plus/docs/zh-cn/develop/pr-tutorial.html)，需要注意的是如需上传文件，请点击搜索框旁边的Add file来添加文件。
+
 ## 🔰先行题
 本题目作为控制组C语言部分考核的先行试题，不计入真实考核结果。
 
