@@ -28,5 +28,4 @@
 （挑战任务仅作为提高练习，选做。）
 
 ## 📦运行示例
-<img width="1048" height="679" alt="image" src="https://github.com/user-attachments/assets/c34fe6e0-f010-485e-b339-f275e9420dd7" />
-
+<img width="800" height="512" alt="image" src="https://github.com/user-attachments/assets/ba701b47-6b11-4877-98d3-b98cc1401592" />
