@@ -26,7 +26,6 @@ void find(int level){
 
 int main(){
     scanf("%d",&n);
-    // n=4;
     nums=(int *)malloc(n*sizeof(int));
     flag=(int *)malloc(n*sizeof(int)); 
     memset(flag,0,n*sizeof(int));
